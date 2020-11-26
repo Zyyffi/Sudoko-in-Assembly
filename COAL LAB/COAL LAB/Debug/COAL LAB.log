@@ -1,0 +1,10 @@
+﻿Build started 11/23/2020 11:26:32 PM.
+     1>Project "H:\FAST-NU\3rd semester\coal\COAL LAB\COAL LAB\COAL LAB.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\FAST-NU\3rd semester\coal\COAL LAB\Debug\COAL LAB.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\irvine Irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\FAST-NU\3rd semester\coal\COAL LAB\Debug\COAL LAB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\FAST-NU\3rd semester\coal\COAL LAB\Debug\COAL LAB.lib" /MACHINE:X86 Debug\Source.obj
+         COAL LAB.vcxproj -> H:\FAST-NU\3rd semester\coal\COAL LAB\Debug\COAL LAB.exe
+     1>Done Building Project "H:\FAST-NU\3rd semester\coal\COAL LAB\COAL LAB\COAL LAB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.81
